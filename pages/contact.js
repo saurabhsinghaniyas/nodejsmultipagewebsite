@@ -12,7 +12,7 @@ export default function Contact(){
                 </li>
                 <li className={styles.list}>
                 <label className={styles.label}>Email:</label>
-                <p className={styles.value}>lorem@example.com</p>
+                <p className={styles.value}>saurabhs91621@gmail.com</p>
                 </li>
             </div>
         </div>
